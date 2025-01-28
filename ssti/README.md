@@ -5,7 +5,7 @@ ssti
 The site seems to be vulnerable to SSTI
 
 # Difficulty
-esay
+easy
 
 # Guide
 When you enter some string(e.g. abc), what changes did you notice?
