@@ -21,7 +21,7 @@ If you proceed to test out some of the common payloads found online, there will 
 
 After some testing you should be able to get some of the blacklisted items. 
 ```
-'class', 'request', 'self', 'config', '_'
+'class', 'request', 'self', 'config', '_', '.'
 ```
 
 ### The Payload   
