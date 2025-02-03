@@ -2,7 +2,7 @@
 Genie
 
 # Description
-The site seems to be vulnerable to SSTI
+Make a wish and you might get it!
 
 # Difficulty
 esay
