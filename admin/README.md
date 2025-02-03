@@ -2,7 +2,7 @@
 admin
 
 # Description
-Log me in
+Welcome to the "Admin" challenge! Your task is to uncover hidden pages and gain access to sensitive areas by bypassing login mechanisms using SQL Injection techniques.
 
 # Difficulty
 Easy
