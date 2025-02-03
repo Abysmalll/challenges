@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Genie</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Genie</h1>
+    <form method="GET" class="form-section">
+      <input class="input-box" type="text" name="input" placeholder="What are you looking for?" value="{{ input }}">
+      <button type="submit">Submit</button>
+    </form>
+
+    <div class="output-container">
+      <div class="output">
+        {{ output }}
+      </div>
+    </div>
+  </div>
+</body>
+</html>
