@@ -10,7 +10,7 @@ Easy
 # Guide
 On the frontpage of the site, there are three pets which are shown Ash, Mello, and Bob.
 
-Upon clicking on Bob, it brings us to another page with the url ending with `?img=Bob.jpg`. This means that it is querying for pet3.jpg, which is the image of Bob if you inspect the elements.
+Upon clicking on Bob, it brings us to another page with the url ending with `?img=Bob.jpg`. This means that it is querying for Bob.jpg, which is the image of Bob if you inspect the elements.
 
 What does the query mean and why it matters?   
 A query parameter is often used to select files or resoruces relating to the query, this case it will be selecting Bob.jpg since I clicked on Bob.
